@@ -4,7 +4,9 @@
 Flutter Shopping Tracker APK is a mobile application developed using Flutter that helps users track their shopping items. The app features a home page with a ListView where each list item is represented by a Card widget for better visualization. Users can add new shopping items, view item details, and remove items from the home screen. All operations, including adding, showing, and deleting items, are handled by Firebase Realtime Database and Firebase Storage, ensuring real-time synchronization and data persistence.
 
 ## Screenshots
-[Include screenshots of your app here, showcasing the user interface]
+<img src="https://github.com/NishantDabhi/axeshopping/assets/101393352/c26388ce-66aa-48f6-b2b1-4ba5eec2183b" height="440">
+<img src="https://github.com/NishantDabhi/axeshopping/assets/101393352/9c4f4835-8b59-49c2-a578-f99785dac796" height="440">
+<img src="https://github.com/NishantDabhi/axeshopping/assets/101393352/55111082-04e6-4d29-94b1-ec31158f28cc" height="440">
 
 ## Features
 - Home Page with ListView displaying shopping items represented by Card widgets.
